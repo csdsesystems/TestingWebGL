@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Maternity_USD",
-"productVersion": "0.1",
+"companyName": "CSDS",
+"productName": "Maternity_Interactive",
+"productVersion": "0.15",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
